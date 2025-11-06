@@ -19,5 +19,7 @@ package-lock.json
 # Ignore folders related to IDEs
 .vscode/
 
-# Ignore CONTRIBUTING section on Github repo front-page.
+# Ignore files left over from original Github repo.
+# Keep them for backup sake.
 CONTRIBUTING.md
+.DS_Store
