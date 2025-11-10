@@ -359,4 +359,4 @@ compress_html:
     envs: development
 
 # Change Site Skin.
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "light"
