@@ -23,8 +23,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/danieldonahoe_CV_fall2025_website.pdf
     
   # - title: "CV"
   #   url: /cv-json/
