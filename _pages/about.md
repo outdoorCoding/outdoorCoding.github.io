@@ -12,7 +12,7 @@ redirect_from:
 I'm currently a PhD Candidate in the Geospatial and Environmental Analysis program at Virginia Tech (VT). My work centers around leveraging petabyte-scale archives of remotely sensed imagery to investigate landscape vegetation change due to a variety of disturbances (e.g., pest infestations, tropical cyclones).
 
 * I am an active member of the Interdisciplinary Graduate Experience Program in remote sensing ([IGEP-RS](https://rsigep.frec.vt.edu/students.html)) at VT.
-* I have multiple work-related experiences under my belt, from internships at NASA (three, at various centers including Goddard and JPL), and post-undergraduate work with the U.S. Forest Service and North Carolina Department of Environmental Quality.
+* I have multiple work-related experiences under my belt, from internships at NASA (three, at various centers including Goddard and JPL), U.S. Department of the Interior, and post-undergraduate work with the U.S. Forest Service and North Carolina Department of Environmental Quality.
 
 
 <!-- Background  -->
