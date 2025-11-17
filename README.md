@@ -23,3 +23,5 @@ See more info at https://academicpages.github.io/ and https://github.com/academi
 <div align="center">
     
 ![pages-build-deployment](https://github.com/outdoorCoding/outdoorCoding.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub license](https://img.shields.io/github/license/outdoorCoding/outdoorCoding.github.io?color=blue)](https://github.com/outdoorCoding/outdoorCoding.github.io/blob/master/LICENSE)
+</div>
