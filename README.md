@@ -17,3 +17,9 @@ Please follow this link https://outdoorcoding.github.io/ to view my person portf
 My portfolio website was ammended from the open-source GitHub repository, Academic Pages, that is available for free-use under an MIT software license.
 
 See more info at https://academicpages.github.io/ and https://github.com/academicpages/academicpages.github.io
+
+
+---
+<div align="center">
+    
+![pages-build-deployment](https://github.com/outdoorCoding/outdoorCoding.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
