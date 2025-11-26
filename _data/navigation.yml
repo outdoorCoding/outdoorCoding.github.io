@@ -11,14 +11,14 @@ main:
   - title: "CV"
     url: /files/danieldonahoe_CV_fall2025_website.pdf
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   # - title: "Portfolio"
   #   url: /portfolio/
