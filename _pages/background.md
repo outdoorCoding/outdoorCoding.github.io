@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Background - more about me"
 permalink: /background
-author_profile: false
+author_profile: true
 redirect_from:
 ---
 {% include base_path %}
