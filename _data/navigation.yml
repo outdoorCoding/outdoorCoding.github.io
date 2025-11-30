@@ -11,6 +11,9 @@ main:
   - title: "CV"
     url: /files/danieldonahoe_CV_fall2025_website.pdf
 
+  - title: "Background"
+    url: /background/
+
   # - title: "Teaching"
   #   url: /teaching/
 
@@ -23,7 +26,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "Blog Posts"
+  # - title: "Blog Posts" 
   #   url: /year-archive/
 
   # - title: "CV"
