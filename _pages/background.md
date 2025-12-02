@@ -26,6 +26,8 @@ My other hobbies and interests include:
 
 &nbsp;
 
+![first image](http://outdoorcoding.github.io/images/photo_39.png) 
+
 <!-- Image -->
 
 <img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_39.png"/>
