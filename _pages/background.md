@@ -26,6 +26,13 @@ My other hobbies and interests include:
 
 &nbsp;
 
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/photo_38.png' | relative_url }}" style="max-width:100%;"/>
+  <figcaption>Looking back on Great Sand Dunes National Park and Preserve (June 29, 2024, Alamosa, CO)</figcaption>
+</figure>
+
+
 ![first image](https://outdoorcoding.github.io/images/photo_39.png) 
 
 <!-- Image -->
