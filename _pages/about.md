@@ -19,7 +19,3 @@ I'm currently a PhD Candidate in the Geospatial and Environmental Analysis progr
 <!-- ====== -->
 
 <!-- <img style="float: left; padding: 10px 10px 10px 10px;" src="httpslink" width=400> -->
-
-<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_39_lowres.png"/>
-
-<img style="float: left; padding: 5px 5px 5px 5px;" src="photo_39_lowres.png"/>
