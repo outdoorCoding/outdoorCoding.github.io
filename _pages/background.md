@@ -7,9 +7,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-I entered grad school during the Covid-19 pandemic to initially pursue an M.S. degree in geospatial sciences. However, I quickly resonated with remote sensing and utilizing imagery to [identify surface features](https://en.wikipedia.org/wiki/Earth_observation) (e.g., land-use, land-cover, etc.). While most Earth remote sensing is inherently geospatial to some degree, the last four years of my graduate career has largely focued on this subset of geospatial sciences, likely due to my love of outdoor photography and landscape geomorphology. 
+I entered grad school during the Covid-19 pandemic to initially pursue an M.S. degree in geospatial sciences. However, I quickly resonated with remote sensing and utilizing imagery to [identify surface features](https://en.wikipedia.org/wiki/Earth_observation) (e.g., land-use, land-cover, etc.). While most Earth remote sensing is inherently geospatial to some degree, the last four years of my graduate career has largely focused on this subset of geospatial sciences, likely due to my love of outdoor photography and landscape geomorphology. 
 
-I continued my education by pursing a PhD in Virginia Tech's unique [Geospatial and Environmental Analysis](https://geography.vt.edu/academics/gea.html) program. I plan to gradaute in fall 2026 and work as a geospatial data scientist/remote sensing scientist.
+I continued my education by pursing a PhD in Virginia Tech's unique [Geospatial and Environmental Analysis](https://geography.vt.edu/academics/gea.html) program. I plan to graduate in fall 2026 and work as a geospatial data scientist/remote sensing scientist.
 
 My other hobbies and interests include:
 * 🎒 Hiking/backpacking
