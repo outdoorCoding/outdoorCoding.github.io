@@ -28,17 +28,9 @@ My other hobbies and interests include:
 
 <!-- Image -->
 
-<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_39_lowres.png"/>
+<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_25_lowres.png"/>
 
-<p style="text-align:center;">Looking back on Great Sand Dunes National Park and Preserve (GSDNP) - June 29, 2024 (Alamosa, CO)</p>
-
-&nbsp;
-
-<!-- Image -->
-
-<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_38_lowres.png"/>
-
-<p style="text-align:center;">Summiting the tallest dune (GSDNP) - June 29, 2024</p>
+<p style="text-align:center;">Visiting the clean room at Goddard Space Flight Center during my internship with the Science Data Processing Branch - June 30, 2023 (Greenbelt, MD)</p>
 
 &nbsp;
 
@@ -52,6 +44,14 @@ My other hobbies and interests include:
 
 <!-- Image -->
 
-<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_25_lowres.png"/>
+<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_39_lowres.png"/>
 
-<p style="text-align:center;">Visiting the clean room at Goddard Space Flight Center during my internship with the Science Data Processing Branch - June 30, 2023 (Greenbelt, MD)</p>
+<p style="text-align:center;">Looking back on Great Sand Dunes National Park and Preserve (GSDNP) - June 29, 2024 (Alamosa, CO)</p>
+
+&nbsp;
+
+<!-- Image -->
+
+<img style="float: left; padding: 5px 5px 5px 5px;" src="/images/photo_38_lowres.png"/>
+
+<p style="text-align:center;">Summiting the tallest dune (GSDNP) - June 29, 2024</p>
