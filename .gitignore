@@ -23,3 +23,6 @@ package-lock.json
 # Keep them for backup sake.
 CONTRIBUTING.md
 .DS_Store
+
+# Ignore VSCode workspace files.
+*.code-workspace
